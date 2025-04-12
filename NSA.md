@@ -3,6 +3,7 @@
 ![Secure Info](https://img.shields.io/badge/Status-Vulnerable-yellow)
 ![Investigation](https://img.shields.io/badge/Status-Under_Investigation-yellow)
 ![Secure Info](https://img.shields.io/badge/Status-Secure-green?label=Confidential&logo=lock&logoColor=white&style=for-the-badge&color=green)
+![Secure Info](https://img.shields.io/badge/Status-Secure-green?label=Confidential&logo=lock&logoColor=white&style=for-the-badge&color=green)
 
 
 # NATIONAL SECURITY AGENCY - CONFIDENTIALITY AND SECURITY AGREEMENT  
