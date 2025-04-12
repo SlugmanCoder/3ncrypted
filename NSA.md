@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/Leaked-Documents-gray)
+![version](https://img.shields.io/badge/Leaked-Documents-blue)
 
 
 # NATIONAL SECURITY AGENCY - CONFIDENTIALITY AND SECURITY AGREEMENT  
