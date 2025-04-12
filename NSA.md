@@ -1,3 +1,6 @@
+![version](https://img.shields.io/badge/Leaked-Documents-gray)
+
+
 # NATIONAL SECURITY AGENCY - CONFIDENTIALITY AND SECURITY AGREEMENT  
 **Effective Date: January 1, 2025**
 
@@ -43,7 +46,7 @@ The code is designed to grant access to restricted information, requiring a secu
 
 In the event of a leak of classified information, immediate action is required:
 
-1. **Notification**: Notify NSA security teams and relevant federal agencies (e.g., FBI).  
+1. **Notification**: Notify NSA security teams or the FBI Criminal, Cyber, Response, and Services Branch.  
 2. **Containment**: Isolate all affected systems and data to prevent further exposure.  
 3. **Investigation**: A full investigation will be launched to identify the source of the breach and hold involved individuals accountable.  
 4. **Public Relations**: Implement a strategy to manage the narrative and protect national security interests.  
