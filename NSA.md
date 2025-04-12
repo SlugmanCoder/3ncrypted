@@ -1,8 +1,8 @@
 # Document Status
 
-![Secure Info](https://img.shields.io/badge/Status-Vulnerable-yellow?label=Vulnerability&logo=lock&logoColor=white&style=for-the-badge&color=green)
-![Secure Info](https://img.shields.io/badge/Status-Under_Investigation-orange?label=Status&logo=lock&logoColor=white&style=for-the-badge&color=green)
-![Secure Info](https://img.shields.io/badge/Status-Yes-orange?label=Tracable&logo=lock&logoColor=white&style=for-the-badge&color=green)
+![Secure Info](https://img.shields.io/badge/Status-Vulnerable-yellow?label=Vulnerability&logo=lock&logoColor=white&style=for-the-badge&color=yellow)
+![Secure Info](https://img.shields.io/badge/Status-Under_Investigation-orange?label=Status&logo=lock&logoColor=white&style=for-the-badge&color=orange)
+![Secure Info](https://img.shields.io/badge/Status-Yes-orange?label=Tracable&logo=lock&logoColor=white&style=for-the-badge&color=orange)
 
 
 # NATIONAL SECURITY AGENCY - CONFIDENTIALITY AND SECURITY AGREEMENT  
