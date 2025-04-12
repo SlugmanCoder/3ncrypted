@@ -1,5 +1,8 @@
-![version](https://img.shields.io/badge/Active-Yes-green)
-![version](https://img.shields.io/badge/Leaked-Online-green)
+![Secure Info](https://img.shields.io/badge/Status-Secure-green)
+![Investigation](https://img.shields.io/badge/Status-Under_Investigation-yellow)
+![Leaked Info](https://img.shields.io/badge/Status-Leaked-red?logo=warning&logoColor=white&style=flat-square&color=red)
+
+
 
 # NATIONAL SECURITY AGENCY - CONFIDENTIALITY AND SECURITY AGREEMENT  
 **Effective Date: January 1, 2025**
