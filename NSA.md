@@ -35,11 +35,11 @@ To maintain secure access, use the following encrypted access code:
 
 **WF4UGSYY31NFI68A7UA5PN6XOEMH3KLLFOZU57U8JR1GPQ86VL1K4NMEPZ6S7X40**  
 
-This code is classified. Misuse or disclosure is subject to termination of access and federal criminal charges.
+The code is designed to grant access to restricted information, requiring a secure access code for authorized users. It ensures that only those with proper clearance can view sensitive data, with any unauthorized access subject to legal action.
 
 ---
 
-## LEAKED INFORMATION GUIDELINES
+### LEAKED INFORMATION GUIDELINES
 
 In the event of a leak of classified information, immediate action is required:
 
